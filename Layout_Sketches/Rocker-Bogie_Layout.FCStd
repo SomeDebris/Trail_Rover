@@ -1,4 +1,4 @@
-12518|12518|A|Document.xml
+12803|12803|A|Document.xml
 <?xml version='1.0' encoding='utf-8'?>
 <!--
  FreeCAD Document, see https://www.freecadweb.org for more information...
@@ -30,7 +30,7 @@
             <String value=""/>
         </Property>
         <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-            <String value="2023-03-07T02:20:18Z"/>
+            <String value="2023-03-07T02:38:41Z"/>
         </Property>
         <Property name="License" type="App::PropertyString" status="1">
             <String value="All rights reserved"/>
@@ -74,7 +74,7 @@
                     <PropertyPlacement Px="0.0000000000000000" Py="0.0000000000000000" Pz="0.0000000000000000" Q0="0.0000000000000000" Q1="0.0000000000000000" Q2="0.0000000000000000" Q3="1.0000000000000000" A="0.0000000000000000" Ox="0.0000000000000000" Oy="0.0000000000000000" Oz="1.0000000000000000"/>
                 </Property>
                 <Property name="Constraints" type="Sketcher::PropertyConstraintList">
-                    <ConstraintList count="11">
+                    <ConstraintList count="12">
                         <Constrain Name="" Type="13" Value="0.0000000000000000" First="1" FirstPos="3" Second="-2" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="12" Value="0.0000000000000000" First="0" FirstPos="0" Second="1" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="12" Value="0.0000000000000000" First="1" FirstPos="0" Second="2" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
@@ -86,6 +86,7 @@
                         <Constrain Name="" Type="1" Value="0.0000000000000000" First="4" FirstPos="2" Second="-1" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="18" Value="177.8000000000000114" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="8.1426849365234375" LabelPosition="0.2617993950843811" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="14" Value="0.0000000000000000" First="3" FirstPos="1" Second="3" SecondPos="2" Third="1" ThirdPos="3" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+                        <Constrain Name="" Type="6" Value="762.0000000000000000" First="3" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="-158.5405731201171875" LabelPosition="-50.5133895874023438" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                     </ConstraintList>
                 </Property>
                 <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
@@ -97,7 +98,7 @@
                     </LinkSubList>
                 </Property>
                 <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
-                    <Bool value="false"/>
+                    <Bool value="true"/>
                 </Property>
                 <Property name="Geometry" type="Part::PropertyGeometryList" status="8192">
                     <GeometryList count="5">
@@ -105,7 +106,7 @@
                             <GeoExtensions count="1">
                                 <GeoExtension type="Sketcher::SketchGeometryExtension" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000" geometryLayer="0"/>
                             </GeoExtensions>
-                            <Circle CenterX="-318.0694270000000188" CenterY="88.9000000000000057" CenterZ="0.0000000000000000" NormalX="0.0000000000000000" NormalY="0.0000000000000000" NormalZ="1.0000000000000000" AngleXU="-0.0000000000000000" Radius="88.9000000000000057"/>
+                            <Circle CenterX="-381.0000000000000000" CenterY="88.9000000000000057" CenterZ="0.0000000000000000" NormalX="0.0000000000000000" NormalY="0.0000000000000000" NormalZ="1.0000000000000000" AngleXU="-0.0000000000000000" Radius="88.9000000000000057"/>
                         </Geometry>
                         <Geometry  type="Part::GeomCircle">
                             <GeoExtensions count="1">
@@ -117,13 +118,13 @@
                             <GeoExtensions count="1">
                                 <GeoExtension type="Sketcher::SketchGeometryExtension" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000" geometryLayer="0"/>
                             </GeoExtensions>
-                            <Circle CenterX="318.0694270000000188" CenterY="88.9000000000000057" CenterZ="0.0000000000000000" NormalX="0.0000000000000000" NormalY="0.0000000000000000" NormalZ="1.0000000000000000" AngleXU="-0.0000000000000000" Radius="88.9000000000000057"/>
+                            <Circle CenterX="381.0000000000000000" CenterY="88.9000000000000057" CenterZ="0.0000000000000000" NormalX="0.0000000000000000" NormalY="0.0000000000000000" NormalZ="1.0000000000000000" AngleXU="-0.0000000000000000" Radius="88.9000000000000057"/>
                         </Geometry>
                         <Geometry  type="Part::GeomLineSegment">
                             <GeoExtensions count="1">
                                 <GeoExtension type="Sketcher::SketchGeometryExtension" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010" geometryLayer="0"/>
                             </GeoExtensions>
-                            <LineSegment StartX="-318.0694270000000188" StartY="88.9000000000000057" StartZ="0.0000000000000000" EndX="318.0694270000000188" EndY="88.9000000000000057" EndZ="0.0000000000000000"/>
+                            <LineSegment StartX="-381.0000000000000000" StartY="88.9000000000000057" StartZ="0.0000000000000000" EndX="381.0000000000000000" EndY="88.9000000000000057" EndZ="0.0000000000000000"/>
                         </Geometry>
                         <Geometry  type="Part::GeomLineSegment">
                             <GeoExtensions count="1">
@@ -176,9 +177,9 @@ Locations 1
 0.000000000000000 0.000000000000000 1.000000000000000 0.000000000000000 
 Curve2ds 0
 Curves 3
-2 -318.06942700000001878 88.90000000000000568 0.00000000000000000 0.00000000000000000 0.00000000000000000 1.00000000000000000 1.00000000000000000 0.00000000000000000 -0.00000000000000000 -0.00000000000000000 1.00000000000000000 0.00000000000000000 88.90000000000000568
+2 -381.00000000000000000 88.90000000000000568 0.00000000000000000 0.00000000000000000 0.00000000000000000 1.00000000000000000 1.00000000000000000 0.00000000000000000 -0.00000000000000000 -0.00000000000000000 1.00000000000000000 0.00000000000000000 88.90000000000000568
 2 0.00000000000000000 88.90000000000000568 0.00000000000000000 0.00000000000000000 0.00000000000000000 1.00000000000000000 1.00000000000000000 0.00000000000000000 -0.00000000000000000 -0.00000000000000000 1.00000000000000000 0.00000000000000000 88.90000000000000568
-2 318.06942700000001878 88.90000000000000568 0.00000000000000000 0.00000000000000000 0.00000000000000000 1.00000000000000000 1.00000000000000000 0.00000000000000000 -0.00000000000000000 -0.00000000000000000 1.00000000000000000 0.00000000000000000 88.90000000000000568
+2 381.00000000000000000 88.90000000000000568 0.00000000000000000 0.00000000000000000 0.00000000000000000 1.00000000000000000 1.00000000000000000 0.00000000000000000 -0.00000000000000000 -0.00000000000000000 1.00000000000000000 0.00000000000000000 88.90000000000000568
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -187,7 +188,7 @@ Triangulations 0
 TShapes 10
 Ve
 0.000000100000000
--229.169427000000013 88.900000000000006 0.000000000000000
+-292.100000000000023 88.900000000000006 0.000000000000000
 0 0
 
 0101101
@@ -223,7 +224,7 @@ Wi
 +6 0 *
 Ve
 0.000000100000000
-406.969426999999996 88.900000000000006 0.000000000000000
+469.899999999999977 88.900000000000006 0.000000000000000
 0 0
 
 0101101
