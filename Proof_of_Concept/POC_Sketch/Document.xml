@@ -29,11 +29,11 @@
     <Property name="Label" type="App::PropertyString" status="1">
       <String value="POC_Sketch"/>
     </Property>
-    <Property name="LastModifiedBy" type="App::PropertyString">
-      <String value=""/>
+    <Property name="LastModifiedBy" type="App::PropertyString" status="1">
+      <String value="Magnus Ramsey"/>
     </Property>
     <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-      <String value="2023-03-07T19:32:43Z"/>
+      <String value="2023-03-07T19:56:37Z"/>
     </Property>
     <Property name="License" type="App::PropertyString" status="1">
       <String value="Creative Commons Attribution-NonCommercial"/>
@@ -104,7 +104,7 @@
     <Object type="App::Plane" name="XZ_Plane" id="3818" revision="0" file="XZ_Plane.xml" />
     <Object type="App::Plane" name="YZ_Plane" id="3819" revision="0" file="YZ_Plane.xml" />
     <Object type="Sketcher::SketchObject" name="Sketch" id="3820" revision="4" file="Sketch.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch001" id="3821" revision="4" file="Sketch001.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch001" id="3821" revision="64" file="Sketch001.xml" />
   </Objects>
   <ObjectData Count="0">
   </ObjectData>
