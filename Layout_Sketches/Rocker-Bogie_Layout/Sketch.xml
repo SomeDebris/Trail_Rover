@@ -181,9 +181,9 @@ Locations 1
               0               0               1               0 
 Curve2ds 0
 Curves 3
-2 -381 88.900000000000006 0 0 0 1 1 0 0 0 1 0 88.900000000000006
-2 0 88.900000000000006 0 0 0 1 1 0 0 0 1 0 88.900000000000006
-2 381 88.900000000000006 0 0 0 1 1 0 0 0 1 0 88.900000000000006
+2 -381 88.900000000000006 0 0 0 1 1 0 -0 -0 1 0 88.900000000000006
+2 0 88.900000000000006 0 0 0 1 1 0 -0 -0 1 0 88.900000000000006
+2 381 88.900000000000006 0 0 0 1 1 0 -0 -0 1 0 88.900000000000006
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -297,7 +297,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="false"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="true"/>
     </Property>
   </Properties>
