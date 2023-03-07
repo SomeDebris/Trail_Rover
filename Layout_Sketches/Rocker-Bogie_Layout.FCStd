@@ -1,4 +1,4 @@
-12803|12803|A|Document.xml
+12860|12860|A|Document.xml
 <?xml version='1.0' encoding='utf-8'?>
 <!--
  FreeCAD Document, see https://www.freecadweb.org for more information...
@@ -14,7 +14,7 @@
         <Property name="Company" type="App::PropertyString">
             <String value=""/>
         </Property>
-        <Property name="CreatedBy" type="App::PropertyString">
+        <Property name="CreatedBy" type="App::PropertyString" status="1">
             <String value=""/>
         </Property>
         <Property name="CreationDate" type="App::PropertyString" status="16777217">
@@ -30,7 +30,7 @@
             <String value=""/>
         </Property>
         <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-            <String value="2023-03-07T02:38:41Z"/>
+            <String value="2023-03-07T06:46:09Z"/>
         </Property>
         <Property name="License" type="App::PropertyString" status="1">
             <String value="All rights reserved"/>
@@ -38,11 +38,11 @@
         <Property name="LicenseURL" type="App::PropertyString" status="1">
             <String value="http://en.wikipedia.org/wiki/All_rights_reserved"/>
         </Property>
-        <Property name="Material" type="App::PropertyMap">
+        <Property name="Material" type="App::PropertyMap" status="1">
             <Map count="0">
             </Map>
         </Property>
-        <Property name="Meta" type="App::PropertyMap">
+        <Property name="Meta" type="App::PropertyMap" status="1">
             <Map count="0">
             </Map>
         </Property>
@@ -58,7 +58,7 @@
     </Properties>
     <Objects Count="1" Dependencies="1">
         <ObjectDeps Name="Sketch" Count="0"/>
-        <Object type="Sketcher::SketchObject" name="Sketch" id="4689" />
+        <Object type="Sketcher::SketchObject" name="Sketch" id="4689" Touched="1" />
     </Objects>
     <ObjectData Count="1">
         <Object name="Sketch" Extensions="True">
@@ -73,7 +73,7 @@
                 <Property name="AttachmentOffset" type="App::PropertyPlacement" status="8">
                     <PropertyPlacement Px="0.0000000000000000" Py="0.0000000000000000" Pz="0.0000000000000000" Q0="0.0000000000000000" Q1="0.0000000000000000" Q2="0.0000000000000000" Q3="1.0000000000000000" A="0.0000000000000000" Ox="0.0000000000000000" Oy="0.0000000000000000" Oz="1.0000000000000000"/>
                 </Property>
-                <Property name="Constraints" type="Sketcher::PropertyConstraintList">
+                <Property name="Constraints" type="Sketcher::PropertyConstraintList" status="1">
                     <ConstraintList count="12">
                         <Constrain Name="" Type="13" Value="0.0000000000000000" First="1" FirstPos="3" Second="-2" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="12" Value="0.0000000000000000" First="0" FirstPos="0" Second="1" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
@@ -84,7 +84,7 @@
                         <Constrain Name="" Type="1" Value="0.0000000000000000" First="4" FirstPos="1" Second="1" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="13" Value="0.0000000000000000" First="4" FirstPos="2" Second="1" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="1" Value="0.0000000000000000" First="4" FirstPos="2" Second="-1" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
-                        <Constrain Name="" Type="18" Value="177.8000000000000114" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="8.1426849365234375" LabelPosition="0.2617993950843811" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+                        <Constrain Name="" Type="18" Value="177.8000000000000114" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="59.7600364685058594" LabelPosition="2.8409867286682129" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="14" Value="0.0000000000000000" First="3" FirstPos="1" Second="3" SecondPos="2" Third="1" ThirdPos="3" LabelDistance="10.0000000000000000" LabelPosition="0.0000000000000000" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                         <Constrain Name="" Type="6" Value="762.0000000000000000" First="3" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="-158.5405731201171875" LabelPosition="-50.5133895874023438" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
                     </ConstraintList>
@@ -97,10 +97,10 @@
                     <LinkSubList count="0">
                     </LinkSubList>
                 </Property>
-                <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
+                <Property name="FullyConstrained" type="App::PropertyBool" status="218103809">
                     <Bool value="true"/>
                 </Property>
-                <Property name="Geometry" type="Part::PropertyGeometryList" status="8192">
+                <Property name="Geometry" type="Part::PropertyGeometryList" status="8193">
                     <GeometryList count="5">
                         <Geometry  type="Part::GeomCircle">
                             <GeoExtensions count="1">
@@ -246,7 +246,7 @@ Co
 +8 0 +5 0 +2 0 *
 
 +1 1 
-7930|7930|A|GuiDocument.xml
+7960|7960|A|GuiDocument.xml
 <?xml version='1.0' encoding='utf-8'?>
 <!--
  FreeCAD Document, see http://www.freecadweb.org for more information...
@@ -369,10 +369,10 @@ Co
                     <Bool value="true"/>
                 </Property>
                 <Property name="TempoVis" type="App::PropertyPythonObject" status="1">
-                    <Python value="bnVsbA==" encoded="yes" json="yes"/>
+                    <Python value="bnVsbA==" encoded="yes" module="Show.mTempoVis" class="TempoVis"/>
                 </Property>
                 <Property name="TightGrid" type="App::PropertyBool" status="1">
-                    <Bool value="true"/>
+                    <Bool value="false"/>
                 </Property>
                 <Property name="Transparency" type="App::PropertyPercent" status="1">
                     <Integer value="0"/>
@@ -386,7 +386,7 @@ Co
             </Properties>
         </ViewProvider>
     </ViewProviderData>
-    <Camera settings="OrthographicCamera {&#10;  viewportMapping ADJUST_CAMERA&#10;  position -118.22906 117.67255 75.655762&#10;  orientation 0 0 1  0&#10;  nearDistance 75.580109&#10;  farDistance 75.731422&#10;  aspectRatio 1&#10;  focalDistance 100&#10;  height 1102.3176&#10;&#10;}&#10;"/>
+    <Camera settings="OrthographicCamera {&#10;  viewportMapping ADJUST_CAMERA&#10;  position -17.02228 114.76431 75.655762&#10;  orientation 0 0 1  0&#10;  nearDistance 75.562126&#10;  farDistance 75.731422&#10;  aspectRatio 1&#10;  focalDistance 100&#10;  height 902.50146&#10;&#10;}&#10;"/>
 </Document>
 
 12|8|B|DiffuseColor
