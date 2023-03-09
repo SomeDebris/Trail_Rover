@@ -88,7 +88,7 @@
         <Constrain Name="" Type="1" Value="0" First="20" FirstPos="2" Second="11" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="14" Value="0" First="20" FirstPos="1" Second="20" SecondPos="2" Third="21" ThirdPos="1" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="13" Value="0" First="21" FirstPos="1" Second="19" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
-        <Constrain Name="" Type="8" Value="19.05" First="-6" FirstPos="3" Second="19" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="23.68173789978027" LabelPosition="-0.02594337426126003" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="8" Value="19.05" First="-6" FirstPos="3" Second="19" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="19.70031547546387" LabelPosition="0.6468967199325562" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
       </ConstraintList>
     </Property>
     <Property name="Exports" type="App::PropertyLinkListHidden" status="67108864">
@@ -396,7 +396,7 @@ Locations 1
 Curve2ds 0
 Curves 8
 1 -49.349962664436916 36.512499999999996 0 -0.25881904510252085 -0.96592582628906831 0 
-1 -56.632847450002444 9.3324039545990871 0 0.9659258262890682 -0.25881904510252074 0 
+1 -56.632847450002444 9.3324039545990871 0 0.96592582628906831 -0.25881904510252079 0 
 1 -47.432403954599067 6.8671525499975763 0 0.25881904510252074 0.96592582628906831 0 
 1 -42.041173103937318 26.987500000000008 0 1 0 0 
 1 -8.7588268960626827 26.987500000000008 0 0.25881904510252074 -0.96592582628906831 0 

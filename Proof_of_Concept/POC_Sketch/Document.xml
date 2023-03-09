@@ -11,7 +11,7 @@
     <Property name="Comment" type="App::PropertyString">
       <String value=""/>
     </Property>
-    <Property name="Company" type="App::PropertyString">
+    <Property name="Company" type="App::PropertyString" status="1">
       <String value=""/>
     </Property>
     <Property name="CreatedBy" type="App::PropertyString" status="1">
@@ -33,7 +33,7 @@
       <String value="Magnus Ramsey"/>
     </Property>
     <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-      <String value="2023-03-08T06:51:58Z"/>
+      <String value="2023-03-09T21:00:36Z"/>
     </Property>
     <Property name="License" type="App::PropertyString" status="1">
       <String value="Creative Commons Attribution-NonCommercial"/>
@@ -68,20 +68,21 @@
       <Bool value="true"/>
     </Property>
   </Properties>
-  <Objects Count="11" Dependencies="1">
-    <ObjectDeps Name="Body" Count="4">
+  <Objects Count="12" Dependencies="1">
+    <ObjectDeps Name="Body" Count="5">
       <Dep Name="Origin"/>
-      <Dep Name="Sketch002"/>
       <Dep Name="Sketch"/>
       <Dep Name="Sketch001"/>
+      <Dep Name="Sketch002"/>
+      <Dep Name="Sketch003"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin" Count="6">
+      <Dep Name="X_Axis"/>
+      <Dep Name="YZ_Plane"/>
       <Dep Name="Y_Axis"/>
+      <Dep Name="XZ_Plane"/>
       <Dep Name="Z_Axis"/>
       <Dep Name="XY_Plane"/>
-      <Dep Name="XZ_Plane"/>
-      <Dep Name="YZ_Plane"/>
-      <Dep Name="X_Axis"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis" Count="0"/>
     <ObjectDeps Name="Y_Axis" Count="0"/>
@@ -93,15 +94,20 @@
       <Dep Name="XY_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch001" Count="2">
-      <Dep Name="XY_Plane"/>
       <Dep Name="Sketch"/>
+      <Dep Name="XY_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch002" Count="3">
-      <Dep Name="XY_Plane"/>
       <Dep Name="Sketch"/>
       <Dep Name="Sketch001"/>
+      <Dep Name="XY_Plane"/>
     </ObjectDeps>
-    <Object type="PartDesign::Body" name="Body" id="3812" revision="149" file="Body.xml" />
+    <ObjectDeps Name="Sketch003" Count="3">
+      <Dep Name="Sketch"/>
+      <Dep Name="Sketch002"/>
+      <Dep Name="XY_Plane"/>
+    </ObjectDeps>
+    <Object type="PartDesign::Body" name="Body" id="3812" revision="252" file="Body.xml" />
     <Object type="App::Origin" name="Origin" id="3813" revision="0" file="Origin.xml" />
     <Object type="App::Line" name="X_Axis" id="3814" revision="0" file="X_Axis.xml" />
     <Object type="App::Line" name="Y_Axis" id="3815" revision="0" file="Y_Axis.xml" />
@@ -111,7 +117,8 @@
     <Object type="App::Plane" name="YZ_Plane" id="3819" revision="0" file="YZ_Plane.xml" />
     <Object type="Sketcher::SketchObject" name="Sketch" id="3820" revision="4" file="Sketch.xml" />
     <Object type="Sketcher::SketchObject" name="Sketch001" id="3821" revision="84" file="Sketch001.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch002" id="3822" revision="613" file="Sketch002.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch002" id="3822" revision="614" file="Sketch002.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch003" id="3823" revision="495" file="Sketch003.xml" />
   </Objects>
   <ObjectData Count="0">
   </ObjectData>
