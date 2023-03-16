@@ -56,7 +56,7 @@ Locations 13
               0               1               0               0 
               0               0               1               0 
 1
--0.866025401689069 5.55111512312577e-17 0.500000003629287 -25.4244321158129 
+-0.866025401689069 5.55111512312581e-17 0.500000003629287 -25.4244321158129 
 3.53385401031316e-16               1 5.01059161658905e-16 3.80999755859375 
 -0.500000003629287 6.10622663543836e-16 -0.866025401689069               0 
 1
@@ -218,7 +218,7 @@ EndMap
       <Integer value="0"/>
     </Property>
     <Property name="_LinkVersion" type="App::PropertyInteger" status="83886080">
-      <Integer value="0"/>
+      <Integer value="1"/>
     </Property>
     <Property name="_Parent" type="App::PropertyLinkHidden" group=" Link" attr="0" ro="0" hide="0" doc="" status="2097162">
       <Link value="Elements"/>
