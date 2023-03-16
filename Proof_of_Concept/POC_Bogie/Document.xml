@@ -4,7 +4,7 @@
 -->
 <Document SchemaVersion="4" ProgramVersion="2023.131R26244 +5365 (Git)" FileVersion="2" Uid="3460a524-4e7d-485a-a0d7-9cf3428c8da7" StringHasher="1">
   <StringHasher saveall="0" threshold="0" count="0" new="1"/>
-  <StringHasher2  count="821">
+  <StringHasher2  count="769">
 <![CDATA[
 -1.0 0:;SKT;:H6b,E
 -1.c.1 g1
@@ -236,203 +236,150 @@
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.1
-bda.0 0:;SKT;:H95,E
--1.c.1 g3
--1.c.0 g4
--1.0 0:;SKT;:H95,V
--1.c.1 g3v1
--2.c.0 g4v1
--3.0 0:;FAC;:H95:4,F
--1.2c.1.9
--2.2c.0.1
--1.0 0:;:G;XTR;:H95:7,F
--1.2c.1.d
--2.2c.0.1
--2.0 0:;:G;XTR;:H95:7,E
--1.2c.1.f
--2.2c.0.2
--51.0 0:;:H96,V
--2d.0 0:;:H96,E
--30.0 0:;:H96,F
--a.0 0:;:M;CUT;:H96:7,F
 167b.2c.419.a7a
-1f03.0 0:;SKT;:H6b,V;:H73,V
--1.c.1 g8v1
--1.c.0 g29v1
--1.0 0:;:U;XTR;:H6b:7,V;:H73,V
--1.2c.1.1eb8
--1.c.-3 g1v1
--1.c.0 g8v2
--1.2c.3.1eeb
--1.c.-3 g1v2
--1.c.0 g2v1
--1.2c.3.1eed
--1.c.-3 g2v2
--1.c.0 g30v2
--1.2c.3.1eef
--1.c.-3 g4v1
--1.c.0 g30v1
--1.2c.3.1ec8
--1.c.-3 g5v1
--1.c.0 g4v2
--1.0 0:;:U2;XTR;:H6b:8,V;:H73,V
--1.2c.1.1ecc
--1.c.-13 g6v1
--1.c.0 g5v2
--1.2c.13.1ece
--1.c.-13 g29v2
--1.c.0 g6v2
--1.2c.13.1ed0
--1.0 0:;:G;XTR;:H6b:7,E;:H73,E
--1.2c.1.1eda
--1.2c.0.-41
--1.0 0:;SKT;:H6b,E;:H73,E
--1.c.1 g8
--1.0 0:;:U;XTR;:H6b:7,E;:H73,E
--1.2c.1.1f07
--1.2c.-5.-18
--1.c.3 g1
--1.2c.2.1f11
--1.2c.-5.-10
--1.c.3 g2
--1.2c.2.1f13
--1.2c.-5.26
--1.c.3 g30
--1.2c.2.1d19
--1.2c.-5.-1d5
--1.c.3 g4
--1.2c.2.1f17
--1.2c.-5.28
--1.c.3 g5
--1.2c.2.1f19
--1.2c.-5.210
--1.c.3 g6
--1.2c.2.1f1b
--1.c.-2 g29
--1.2c.2.1d22
--1.0 0:;:G;XTR;:H6b:7,F;:H73,F
--1.2c.1.1f28
--1.2c.0.-10
--1.2c.0.a
--1.2c.0.205
--1.2c.0.-203
+2163.c.3 g29v1
+-1.0 0:;:U;XTR;:H6b:7,V
+-1.2c.1.2116
+-1.c.-2161 g8v2
+-1.2c.2161.2148
+-1.c.-2161 g2v1
+-1.2c.2161.2149
+-1.c.-2161 g30v2
+-1.2c.2161.214a
+-1.c.-2161 g30v1
+-1.2c.2161.2122
+-1.c.-2161 g4v2
+-1.0 0:;:U2;XTR;:H6b:8,V
+-1.2c.1.2125
+-1.c.-216c g5v2
+-1.2c.216c.2126
+-1.c.-216c g6v2
+-1.2c.216c.2127
+-1.2c.-2151.-8
+-1.2c.29.-2f
 -1.2c.0.1
--1.2c.0.1
--1.2c.0.203
--1.0 0:;FAC;:H6b:4,F;:H73,F
--1.c.1.1b85 #2
--1.0 0:(#1f43;K-3;:H96:4,F)
--1.0 0:(#1f43;K-4;:H96:4,F)
--1.0 0:;:G0;XTR;:H6b:8,F;:H73,F
--1.c.1.1b89 #14
--1.0 0:(#1f47;K-3;:H96:4,F)
--1.0 0:(#1f47;K-4;:H96:4,F)
--1.0 0:(#1f43;K-1;:H96:4,F)
--1.0 0:(#1f43;K-2;:H96:4,F)
--1.0 0:(#1f47;K-1;:H96:4,F)
--1.0 0:(#1f47;K-2;:H96:4,F)
--1.2c.130e.4a
--1.2c.0.1
+-1.2c.-29.26
+-1.2c.29.1d7
+-1.2c.-29.-1d5
 -1.2c.0.2
+-1.2c.0.1e9
+-1.2c.29.-14
+-1.0 0:;:G0;XTR;:H6b:8,F
+-1.2c.1.216b
+-a.0 0:(#14;K-3;:H73:4,F)
+-1.0 0:(#14;K-4;:H73:4,F)
+-1.0 0:(#14;K-1;:H73:4,F)
+-1.0 0:(#14;K-2;:H73:4,F)
+-1.0 0:(#217f;K-3;:H73:4,F)
+-1.0 0:(#217f;K-4;:H73:4,F)
+-1.0 0:(#217f;K-1;:H73:4,F)
+-1.0 0:(#217f;K-2;:H73:4,F)
+-1.0 0:;:H73,V
+-1.2c.1.214d
+-1.2c.0.211e
+-1.2c.0.2
+-1.2c.0.-2161
+-1.2c.0.2162
 -1.2c.0.1
+-1.2c.0.-1f3d
+-1.2c.0.1f49
 -1.2c.0.1
+-1.2c.0.-216f
+-1.2c.0.2163
 -1.2c.0.1
--1.2c.0.11
--1.2c.0.1
--1.2c.0.1
--1.2c.0.-12
--1.2c.0.1
--1.2c.0.1
--1.2c.0.b
--1.2c.0.1
--1.2c.0.-b
--1.2c.0.1
+-1.2c.0.-2128
+-1.2c.0.2130
+-1.2c.0.-216b
+-1.2c.0.2164
+-1.2c.0.-212b
+-1.2c.0.212f
+-1.2c.0.-2131
+-1.2c.0.212f
+-1.28.-1dc7.-2158.21a4.1b ;:G#218b;CUT;:H-8e:c,V
+-1.28.1.0.0.1 ;:G#218c;CUT;:H-8e:c,V
+-1.2c.1dc6.215e
+-1.2c.0.-7
 -1.2c.0.5
--1.2c.0.1
+-1.2c.0.-3
+-1.28.-1dc7.-2159.2d.1d ;:G2#218f;CUT;:H-8e:d,V
+-1.28.1.0.0.1 ;:G2#2190;CUT;:H-8e:d,V
+-1.0 0:;:H73,E
+-1.2c.1.3a
+-1.2c.0.-2156
+-1.2c.0.-d
+-1.2c.0.3d
+-1.2c.0.212d
+-1.2c.0.-215c
+-1.2c.0.-1e
+-1.2c.0.2174
+-1.2c.0.-2166
 -1.2c.0.-4
--1.2c.0.1
--1.28.-876.-1f10.1f.18 ;:G#1f4a;CUT;:H-8e:c,V
--1.28.1.0.0.1 ;:G#1f4b;CUT;:H-8e:c,V
--1.2c.875.1f18
--1.2c.0.-a
--1.2c.0.7
--1.2c.0.-4
--1.28.-876.-1eff.21.1c ;:G2#1f4c;CUT;:H-8e:d,V
--1.28.1.0.0.1 ;:G2#1f4d;CUT;:H-8e:d,V
--1.2c.8a2.1f0b
--1.2c.0.1
--1.2c.0.2
--1.2c.0.2
--1.2c.0.10
--1.2c.0.-f
--1.2c.0.1
--1.2c.0.1
--1.2c.0.e
--1.2c.0.-c
--1.2c.0.9
--1.2c.0.-3
--1.28.-8a6.-1f2d.33.32 ;:G#1f44;CUT;:H-8e:c,E
--1.28.1.0.0.1 ;:G#1f45;CUT;:H-8e:c,E
--1.2c.8a5.1f34
--1.2c.0.-c
--1.2c.0.9
--1.2c.0.-3
--1.28.-8a6.-1f1c.35.34 ;:G2#1f48;CUT;:H-8e:d,E
--1.28.1.0.0.1 ;:G2#1f49;CUT;:H-8e:d,E
--1.2c.8a5.1f1d
--1.2c.0.-9
--1.2c.0.6
--1.2c.0.-3
--1.2c.30.f
--1.2c.0.1
+-1.2c.0.3
+-1.2c.0.-1
+-1.28.-1de7.6.21b9.32 ;:G#2189;CUT;:H-8e:c,E
+-1.28.1.0.0.1 ;:G#218a;CUT;:H-8e:c,E
+-1.2c.1de6.39
+-1.2c.0.212a
+-1.2c.0.-212b
+-1.2c.0.-1
+-1.28.-1de7.-37.42.34 ;:G2#218d;CUT;:H-8e:d,E
+-1.28.1.0.0.1 ;:G2#218e;CUT;:H-8e:d,E
+-1.2c.1de6.2167
+-1.2c.0.-215a
+-1.2c.0.2159
+-1.2c.0.-2
+-1.0 0:;:H73,F
+-1.2c.1.21ab
+-1.2c.0.-7
 -1.2c.0.5
 -1.2c.0.-4
 -1.2c.0.3
 -1.2c.0.-1
--1.2c.-30.-7
--1.c.30.-1c08 #1f41
--1.0 0:(#1f89;K-1;:H8e:4,F)
--1.2c.131e.53
--1.2c.0.-c
--1.2c.0.1
--1.c.3a.-1bfe #1f47
--1.0 0:(#1f8e;K-3;:H8e:4,F)
--1.0 0:(#1f8e;K-4;:H8e:4,F)
--1.0 0:(#1f89;K-2;:H8e:4,F)
--1.c.12f5.1c63 #1f3d
--1.0 0:(#1f92;K-2;:H8e:4,F)
--1.0 0:(#1f92;K-1;:H8e:4,F)
--1.0 0:(#1f8e;K-2;:H8e:4,F)
--1.2c.12ef.53.1f94
--1.0 0:(#1f96;K2;:H8e:3,F)
--1.0 0:(#1f88;K-2;:H8e:4,E)
--1.0 0:(#1f8c;K-1;:H8e:4,E)
--1.0 0:(#1f8e;K-1;:H8e:4,F)
--1.0 0:(#1f88;K-1;:H8e:4,E)
--1.0 0:(#1f8c;K-2;:H8e:4,E)
--1.0 0:(#333;:M2;FUS;:H-8a:8,F|#333;:M3;FUS;:H-8a:8,F|#335;:M;FUS;:H-8a:7,F|#1f96;:M3;FUS;:H8e:8,F)
--1.28.1c6b.1f9c.5b.8.7.1c6b.1c6b.1c69.8.1 ;:M#1f97;FUS;:H-8a:c,F
--1.2c.1a8.1f4c
--1.2c.0.1
--1.2c.0.1
--1.2c.0.1
+-1.2c.-19.1fa
+-1.c.19.11c #216
+-1.0 0:(#21cf;K-1;:H8e:4,F)
+-1.2c.23.54
+-1.2c.0.-1f6c
+-1.2c.0.1f68
+-1.0 0:;:M;CUT;:H73:7,F
+-1.c.1.1ea6 #217f
+-1.0 0:(#21d5;K-3;:H8e:4,F)
+-1.0 0:(#21d5;K-4;:H8e:4,F)
+-1.0 0:(#21cf;K-2;:H8e:4,F)
+-1.c.12.1eaa #214
+-1.0 0:(#21d9;K-2;:H8e:4,F)
+-1.0 0:(#21d9;K-1;:H8e:4,F)
+-1.0 0:(#21d5;K-2;:H8e:4,F)
+-1.2c.9.21c9
+-1.0 0:(#21dd;K2;:H8e:3,F)
+-1.0 0:(#21ce;K-2;:H8e:4,E)
+-1.0 0:(#21d2;K-1;:H8e:4,E)
+-1.0 0:(#21d5;K-1;:H8e:4,F)
+-1.0 0:(#21ce;K-1;:H8e:4,E)
+-1.0 0:(#21d2;K-2;:H8e:4,E)
+-1.0 0:(#333;:M2;FUS;:H-8a:8,F|#333;:M3;FUS;:H-8a:8,F|#335;:M;FUS;:H-8a:7,F|#21dd;:M3;FUS;:H8e:8,F)
+-1.28.1eb2.21d1.8.7.1eb2.1eb2.1eb0.8.1 ;:M#21de;FUS;:H-8a:c,F
+-1.2c.1a8.217e
 -1.2c.0.1
 -1.2c.0.1
--1.28.-1ac.-1c.1d.d ;:G2#1f98;FUS;:H-8a:d,V
--1.28.1c5c.-1c02.-1c3e.-1c69 ;:G#34a;FUS;:H8e:b,V
--1.2c.-1ab0.1c22
+-1.2c.0.1
+-1.2c.0.1
+-1.2c.0.1
+-1.28.-1ac.-1f84.1e.d ;:G2#21df;FUS;:H-8a:d,V
+-1.28.1ea2.122.-1e84.-1eb0 ;:G#34a;FUS;:H8e:b,V
+-1.2c.-1cf6.1e66
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.c
--1.28.1ab2.-1c30.1c66.1c7c ;:G2#345;FUS;:H8e:c,V
--1.2c.-1ab2.1c33
--1.28.1ab0.-1c33.1c64.1c7e ;:G2#349;FUS;:H8e:c,V
--1.28.-1c54.-321.1bfe.1c5f.14 ;:G#1f9a;FUS;:H-8a:c,V
--1.28.-8.1f23.41.d ;:G#1f9b;FUS;:H-8a:c,V
--1.28.0.-b.4.-2 ;:G3#1f99;FUS;:H-8a:d,V
--1.28.0.0.0.3 ;:G4#1f9c;FUS;:H-8a:d,V
--1.28.1c5e.-1bf7.-1c44.-1c6d ;:G#348;FUS;:H8e:b,V
--1.2c.-1ab2.1c27
+-1.28.1cf8.-1e74.1ead.1ec3 ;:G2#345;FUS;:H8e:c,V
+-1.2c.-1cf8.1e77
+-1.28.1cf6.-1e77.1eab.1ec5 ;:G2#349;FUS;:H8e:c,V
+-1.28.-1e9a.1e4a.1e8c.1eb2 ;:G#21e1;FUS;:H-8a:c,V
+-1.28.-8.-1f6c.-7.1 ;:G#21e2;FUS;:H-8a:c,V
+-1.28.0.-2.4.-2 ;:G3#21e0;FUS;:H-8a:d,V
+-1.28.0.0.0.3 ;:G4#21e3;FUS;:H-8a:d,V
+-1.28.1ea4.124.-1e8a.-1eb4 ;:G#348;FUS;:H8e:b,V
+-1.2c.-1cf8.1e6b
 -1.2c.0.1
 -1.2c.0.5
 -1.2c.0.5
@@ -449,61 +396,61 @@ bda.0 0:;SKT;:H95,E
 -1.2c.0.-5
 -1.2c.0.1
 -1.2c.0.8
--1.2c.24.7
+-1.2c.24.8
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.1
--1.2c.e5.1b
--1.28.-2af.-47.40.3f ;:G5#1f8a;FUS;:H-8a:d,E
--1.2c.2af.4a
--1.2c.-e5.-1c
+-1.2c.e5.1c
+-1.28.-2af.-1fb8.41.40 ;:G5#21d0;FUS;:H-8a:d,E
+-1.2c.2af.1fbb
+-1.2c.-e5.-1d
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.8
--1.2c.ec.14
--1.28.-2b6.-1f79.89.42.41 ;:G8#1f8f;FUS;:H-8a:d,E
--1.2c.1ca.1f68
--1.28.-1ca.-1f68.8b.44.42 ;:G9#1f90;FUS;:H-8a:d,E
--1.28.0.1f2d.42.3 ;:G6#1f91;FUS;:H-8a:d,E
--1.28.0.-4.9.2 ;:G11#1f93;FUS;:H-8a:e,E
--1.28.0.0.0.1 ;:G10#1f94;FUS;:H-8a:e,E
--1.28.0.-1f29.-4b.-6.41 ;:G7#1f95;FUS;:H-8a:d,E
--1.2c.1ca.1f6b
+-1.2c.ec.15
+-1.28.-2b6.-54.42.41 ;:G8#21d6;FUS;:H-8a:d,E
+-1.2c.1ca.42
+-1.28.-1ca.-42.44.42 ;:G9#21d7;FUS;:H-8a:d,E
+-1.28.0.-1f69.-6.1 ;:G6#21d8;FUS;:H-8a:d,E
+-1.28.0.-2.a.2 ;:G11#21da;FUS;:H-8a:e,E
+-1.28.0.0.0.1 ;:G10#21db;FUS;:H-8a:e,E
+-1.28.0.1f6b.-4.1 ;:G7#21dc;FUS;:H-8a:d,E
+-1.2c.1ca.45
 -1.2c.0.-c
--1.2c.e8.19
--1.2c.-e8.-16
--1.2c.e5.17
--1.2c.-e5.-12
+-1.2c.e8.1a
+-1.2c.-e8.-17
+-1.2c.e5.18
+-1.2c.-e5.-13
 -1.2c.0.-1
 -1.2c.0.-2
--1.2c.ec.13
--1.2c.-ec.-e
--1.2c.e8.b
--1.2c.-e8.-1a
--1.2c.e5.1e
--1.2c.-e5.-b
+-1.2c.ec.14
+-1.2c.-ec.-f
+-1.2c.e8.c
+-1.2c.-e8.-1b
+-1.2c.e5.1f
+-1.2c.-e5.-c
 -1.2c.0.-1
 -1.2c.0.-b
 -1.2c.0.9
 -1.2c.0.-a
 -1.2c.0.-2
 -1.2c.0.5
--1.2c.2b.b
--1.2c.c5.7.ab
+-1.2c.2b.c
+-1.2c.c5.7.201d
 -1.2c.-c5.-6
--1.2c.c5.b.a7.1fda
--1.2c.-c5.-9
--1.2c.cb.d.b3
--1.2c.0.-4.a.1fdd
--1.2c.0.-5.-6
--1.2c.-6.9.-4
--1.2c.-c5.-b
+-1.2c.c5.c.b6
+-1.2c.-c5.-a
+-1.2c.cb.e.2023
+-1.2c.0.-4.1f6b
+-1.2c.0.-6.-1f69
+-1.2c.-6.a.-2
+-1.2c.-c5.-c
 -1.2c.0.-1
 -1.2c.0.-2
--1.8.214 #1f9e ;:M#1f9d;RFI;:H-8a:c,F
--1.0 0:(#1ff7;K-2;:H8a:4,F)
--1.0 0:(#1ff7;K-1;:H8a:4,F)
--1.2c.1c2e.5b
+-1.8.214 #21e5 ;:M#21e4;RFI;:H-8a:c,F
+-1.0 0:(#223e;K-2;:H8a:4,F)
+-1.0 0:(#223e;K-1;:H8a:4,F)
+-1.2c.1e75.5b
 -1.2c.0.1
 -1.2c.0.1
 -1.2c.0.1
@@ -525,7 +472,7 @@ bda.0 0:;SKT;:H95,E
 -1.2c.0.1
 -1.2c.0.-9
 -1.2c.0.e
--1.28.37a.-25.19.17 ;:G2#1ff9;CUT;:H-94:d,V
+-1.28.37a.-25.19.17 ;:G2#2240;CUT;:H-94:d,V
 -1.2c.-37a.c
 -1.2c.0.1
 -1.2c.0.1
@@ -550,7 +497,7 @@ bda.0 0:;SKT;:H95,E
 -1.2c.0.-2
 -1.2c.0.-c
 -1.2c.0.10
--1.28.359.-4c.32.31 ;:G2#1ff8;CUT;:H-94:d,E
+-1.28.359.-4c.32.31 ;:G2#223f;CUT;:H-94:d,E
 -1.2c.-359.30
 -1.2c.0.2
 -1.2c.0.1
@@ -827,6 +774,7 @@ bda.0 0:;SKT;:H95,E
 -1.2c.0.-52
 -1.2c.0.54
 -1.2c.0.-52
+-21.0 0:Shape cache
 ]]>
   </StringHasher2>
   <Properties Count="19" TransientCount="3">
@@ -858,7 +806,7 @@ bda.0 0:;SKT;:H95,E
       <String value="Magnus Ramsey"/>
     </Property>
     <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-      <String value="2023-03-14T22:20:20Z"/>
+      <String value="2023-03-14T22:35:02Z"/>
     </Property>
     <Property name="License" type="App::PropertyString" status="1">
       <String value="Creative Commons Attribution-NonCommercial"/>
@@ -883,8 +831,8 @@ bda.0 0:;SKT;:H95,E
     <Property name="SplitXML" type="App::PropertyBool" status="1">
       <Bool value="true"/>
     </Property>
-    <Property name="TipName" type="App::PropertyString" status="83886080">
-      <String value=""/>
+    <Property name="TipName" type="App::PropertyString" status="83886081">
+      <String value="Part"/>
     </Property>
     <Property name="Uid" type="App::PropertyUUID" status="16777217">
       <Uuid value="3460a524-4e7d-485a-a0d7-9cf3428c8da7"/>
@@ -893,30 +841,29 @@ bda.0 0:;SKT;:H95,E
       <Bool value="true"/>
     </Property>
   </Properties>
-  <Objects Count="21" Dependencies="1">
-    <ObjectDeps Name="Body" Count="14">
-      <Dep Name="Pocket"/>
-      <Dep Name="Origin"/>
-      <Dep Name="Fillet002"/>
-      <Dep Name="Fillet001"/>
-      <Dep Name="Pad002"/>
-      <Dep Name="Sketch004"/>
-      <Dep Name="Sketch001"/>
-      <Dep Name="Sketch002"/>
-      <Dep Name="Sketch003"/>
+  <Objects Count="28" Dependencies="1">
+    <ObjectDeps Name="Body" Count="13">
       <Dep Name="Sketch"/>
-      <Dep Name="Fillet"/>
+      <Dep Name="Origin"/>
       <Dep Name="Pad"/>
+      <Dep Name="Sketch001"/>
       <Dep Name="Pad001"/>
+      <Dep Name="Fillet001"/>
+      <Dep Name="Fillet002"/>
+      <Dep Name="Fillet"/>
+      <Dep Name="Sketch002"/>
+      <Dep Name="Pocket"/>
+      <Dep Name="Sketch003"/>
       <Dep Name="Pocket001"/>
+      <Dep Name="Sketch004"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin" Count="6">
-      <Dep Name="YZ_Plane"/>
-      <Dep Name="Z_Axis"/>
-      <Dep Name="XY_Plane"/>
       <Dep Name="X_Axis"/>
+      <Dep Name="Z_Axis"/>
       <Dep Name="Y_Axis"/>
       <Dep Name="XZ_Plane"/>
+      <Dep Name="XY_Plane"/>
+      <Dep Name="YZ_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis" Count="0"/>
     <ObjectDeps Name="Y_Axis" Count="0"/>
@@ -928,17 +875,17 @@ bda.0 0:;SKT;:H95,E
       <Dep Name="XZ_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad" Count="2">
-      <Dep Name="Body"/>
       <Dep Name="Sketch"/>
+      <Dep Name="Body"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch001" Count="2">
       <Dep Name="Sketch"/>
       <Dep Name="XZ_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="Pad001" Count="3">
-      <Dep Name="Pocket"/>
       <Dep Name="Body"/>
       <Dep Name="Sketch001"/>
+      <Dep Name="Pocket"/>
     </ObjectDeps>
     <ObjectDeps Name="Fillet" Count="2">
       <Dep Name="Body"/>
@@ -950,7 +897,7 @@ bda.0 0:;SKT;:H95,E
     </ObjectDeps>
     <ObjectDeps Name="Pocket" Count="3">
       <Dep Name="Body"/>
-      <Dep Name="Pad002"/>
+      <Dep Name="Pad"/>
       <Dep Name="Sketch002"/>
     </ObjectDeps>
     <ObjectDeps Name="Fillet001" Count="2">
@@ -962,24 +909,37 @@ bda.0 0:;SKT;:H95,E
       <Dep Name="Fillet001"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch003" Count="2">
-      <Dep Name="Sketch001"/>
       <Dep Name="XZ_Plane"/>
+      <Dep Name="Sketch001"/>
     </ObjectDeps>
     <ObjectDeps Name="Pocket001" Count="3">
       <Dep Name="Body"/>
-      <Dep Name="Sketch003"/>
       <Dep Name="Pad001"/>
+      <Dep Name="Sketch003"/>
     </ObjectDeps>
     <ObjectDeps Name="Sketch004" Count="2">
-      <Dep Name="Pocket"/>
       <Dep Name="XZ_Plane"/>
+      <Dep Name="Pocket"/>
     </ObjectDeps>
-    <ObjectDeps Name="Pad002" Count="3">
+    <ObjectDeps Name="Part" Count="2">
+      <Dep Name="Origin001"/>
       <Dep Name="Body"/>
-      <Dep Name="Sketch004"/>
-      <Dep Name="Pad"/>
     </ObjectDeps>
-    <Object type="PartDesign::Body" name="Body" id="99" revision="461" Touched="1" file="Body.xml" />
+    <ObjectDeps Name="Origin001" Count="6">
+      <Dep Name="YZ_Plane001"/>
+      <Dep Name="XY_Plane001"/>
+      <Dep Name="XZ_Plane001"/>
+      <Dep Name="X_Axis001"/>
+      <Dep Name="Y_Axis001"/>
+      <Dep Name="Z_Axis001"/>
+    </ObjectDeps>
+    <ObjectDeps Name="X_Axis001" Count="0"/>
+    <ObjectDeps Name="Y_Axis001" Count="0"/>
+    <ObjectDeps Name="Z_Axis001" Count="0"/>
+    <ObjectDeps Name="XY_Plane001" Count="0"/>
+    <ObjectDeps Name="XZ_Plane001" Count="0"/>
+    <ObjectDeps Name="YZ_Plane001" Count="0"/>
+    <Object type="PartDesign::Body" name="Body" id="99" revision="465" file="Body.xml" />
     <Object type="App::Origin" name="Origin" id="100" revision="0" file="Origin.xml" />
     <Object type="App::Line" name="X_Axis" id="101" revision="1" file="X_Axis.xml" />
     <Object type="App::Line" name="Y_Axis" id="102" revision="2" file="Y_Axis.xml" />
@@ -989,17 +949,24 @@ bda.0 0:;SKT;:H95,E
     <Object type="App::Plane" name="YZ_Plane" id="106" revision="2" file="YZ_Plane.xml" />
     <Object type="Sketcher::SketchObject" name="Sketch" id="107" revision="1308" file="Sketch.xml" />
     <Object type="PartDesign::Pad" name="Pad" id="115" revision="56" file="Pad.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch001" id="137" revision="198" file="Sketch001.xml" />
-    <Object type="PartDesign::Pad" name="Pad001" id="138" revision="208" file="Pad001.xml" />
-    <Object type="PartDesign::Fillet" name="Fillet" id="139" revision="154" file="Fillet.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch001" id="137" revision="199" file="Sketch001.xml" />
+    <Object type="PartDesign::Pad" name="Pad001" id="138" revision="215" file="Pad001.xml" />
+    <Object type="PartDesign::Fillet" name="Fillet" id="139" revision="159" file="Fillet.xml" />
     <Object type="Sketcher::SketchObject" name="Sketch002" id="140" revision="214" file="Sketch002.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket" id="142" revision="136" Touched="1" file="Pocket.xml" />
-    <Object type="PartDesign::Fillet" name="Fillet001" id="143" revision="122" file="Fillet001.xml" />
-    <Object type="PartDesign::Fillet" name="Fillet002" id="144" revision="99" file="Fillet002.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch003" id="145" revision="73" file="Sketch003.xml" />
-    <Object type="PartDesign::Pocket" name="Pocket001" id="148" revision="185" file="Pocket001.xml" />
-    <Object type="Sketcher::SketchObject" name="Sketch004" id="149" revision="797" Touched="1" file="Sketch004.xml" />
-    <Object type="PartDesign::Pad" name="Pad002" id="150" revision="239" file="Pad002.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket" id="142" revision="144" file="Pocket.xml" />
+    <Object type="PartDesign::Fillet" name="Fillet001" id="143" revision="127" file="Fillet001.xml" />
+    <Object type="PartDesign::Fillet" name="Fillet002" id="144" revision="104" file="Fillet002.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch003" id="145" revision="74" file="Sketch003.xml" />
+    <Object type="PartDesign::Pocket" name="Pocket001" id="148" revision="192" file="Pocket001.xml" />
+    <Object type="Sketcher::SketchObject" name="Sketch004" id="149" revision="825" file="Sketch004.xml" />
+    <Object type="App::Part" name="Part" id="151" revision="8" file="Part.xml" />
+    <Object type="App::Origin" name="Origin001" id="152" revision="0" file="Origin001.xml" />
+    <Object type="App::Line" name="X_Axis001" id="153" revision="1" file="X_Axis001.xml" />
+    <Object type="App::Line" name="Y_Axis001" id="154" revision="2" file="Y_Axis001.xml" />
+    <Object type="App::Line" name="Z_Axis001" id="155" revision="2" file="Z_Axis001.xml" />
+    <Object type="App::Plane" name="XY_Plane001" id="156" revision="1" file="XY_Plane001.xml" />
+    <Object type="App::Plane" name="XZ_Plane001" id="157" revision="2" file="XZ_Plane001.xml" />
+    <Object type="App::Plane" name="YZ_Plane001" id="158" revision="2" file="YZ_Plane001.xml" />
   </Objects>
   <ObjectData Count="0">
   </ObjectData>
