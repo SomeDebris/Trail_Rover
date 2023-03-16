@@ -48,7 +48,7 @@
       <Bool value="false"/>
     </Property>
     <Property name="GridSize" type="App::PropertyLength" status="1">
-      <Float value="5.0038"/>
+      <Float value="0.625475"/>
     </Property>
     <Property name="GridSnap" type="App::PropertyBool" status="1">
       <Bool value="false"/>
