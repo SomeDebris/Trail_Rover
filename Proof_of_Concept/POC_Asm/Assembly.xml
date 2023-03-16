@@ -35,7 +35,7 @@
     <Property name="Freeze" type="App::PropertyBool" group="Base" attr="0" ro="0" hide="0" doc="" status="2098176">
       <Bool value="false"/>
     </Property>
-    <Property name="Group" type="App::PropertyLinkList" group="Base" attr="0" ro="0" hide="0" doc="" status="2097419">
+    <Property name="Group" type="App::PropertyLinkList" group="Base" attr="0" ro="0" hide="0" doc="" status="2097418">
       <LinkList count="3">
         <Link value="Constraints"/>
         <Link value="Elements"/>
@@ -72,16 +72,16 @@
       <Bool value="true"/>
     </Property>
     <Property name="VisibilityList" type="App::PropertyBoolList" group="Base" attr="0" ro="0" hide="0" doc="" status="2099082">
-      <BoolList value="111"/>
+      <BoolList value="110"/>
     </Property>
     <Property name="_LinkOwner" type="App::PropertyInteger" status="201326592">
       <Integer value="0"/>
     </Property>
     <Property name="_LinkVersion" type="App::PropertyInteger" status="83886080">
-      <Integer value="0"/>
+      <Integer value="1"/>
     </Property>
     <Property name="_SolverType" type="App::PropertyInteger" group="Solver" attr="0" ro="0" hide="1" doc="" status="69206016">
-      <Integer value="0"/>
+      <Integer value="1"/>
     </Property>
     <Property name="_Version" type="App::PropertyInteger" group="Base" attr="0" ro="0" hide="0" doc="" status="2097288">
       <Integer value="1"/>

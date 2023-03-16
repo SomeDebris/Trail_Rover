@@ -154,7 +154,7 @@
       <String value="Magnus Ramsey"/>
     </Property>
     <Property name="LastModifiedDate" type="App::PropertyString" status="16777217">
-      <String value="2023-03-11T07:52:25Z"/>
+      <String value="2023-03-16T01:29:49Z"/>
     </Property>
     <Property name="License" type="App::PropertyString" status="1">
       <String value="Creative Commons Attribution-NonCommercial"/>
@@ -162,11 +162,11 @@
     <Property name="LicenseURL" type="App::PropertyString" status="1">
       <String value="http://creativecommons.org/licenses/by-nc/4.0/"/>
     </Property>
-    <Property name="Material" type="App::PropertyMap">
+    <Property name="Material" type="App::PropertyMap" status="1">
       <Map count="0">
       </Map>
     </Property>
-    <Property name="Meta" type="App::PropertyMap">
+    <Property name="Meta" type="App::PropertyMap" status="1">
       <Map count="0">
       </Map>
     </Property>
@@ -191,18 +191,18 @@
   </Properties>
   <Objects Count="14" Dependencies="1">
     <ObjectDeps Name="Body" Count="5">
-      <Dep Name="Sketch"/>
       <Dep Name="Origin"/>
-      <Dep Name="Chamfer"/>
+      <Dep Name="Sketch"/>
       <Dep Name="Revolution"/>
+      <Dep Name="Chamfer"/>
       <Dep Name="Fillet"/>
     </ObjectDeps>
     <ObjectDeps Name="Origin" Count="6">
-      <Dep Name="Z_Axis"/>
       <Dep Name="X_Axis"/>
+      <Dep Name="Y_Axis"/>
+      <Dep Name="Z_Axis"/>
       <Dep Name="XY_Plane"/>
       <Dep Name="XZ_Plane"/>
-      <Dep Name="Y_Axis"/>
       <Dep Name="YZ_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="X_Axis" Count="0"/>
@@ -220,9 +220,9 @@
       <Dep Name="YZ_Plane"/>
     </ObjectDeps>
     <ObjectDeps Name="Revolution" Count="3">
-      <Dep Name="Sketch"/>
-      <Dep Name="Y_Axis"/>
       <Dep Name="Body"/>
+      <Dep Name="Y_Axis"/>
+      <Dep Name="Sketch"/>
     </ObjectDeps>
     <ObjectDeps Name="Chamfer" Count="2">
       <Dep Name="Body"/>
@@ -240,7 +240,7 @@
     <Object type="App::Plane" name="XY_Plane" id="131" revision="1" file="XY_Plane.xml" />
     <Object type="App::Plane" name="XZ_Plane" id="132" revision="2" file="XZ_Plane.xml" />
     <Object type="App::Plane" name="YZ_Plane" id="133" revision="2" file="YZ_Plane.xml" />
-    <Object type="App::Part" name="Part" id="135" revision="298" file="Part.xml" />
+    <Object type="App::Part" name="Part" id="135" revision="301" file="Part.xml" />
     <Object type="App::Origin" name="Origin001" id="136" revision="0" file="Origin001.xml" />
     <Object type="Sketcher::SketchObject" name="Sketch" id="149" revision="599" file="Sketch.xml" />
     <Object type="PartDesign::Revolution" name="Revolution" id="150" revision="16" file="Revolution.xml" />

@@ -56,9 +56,9 @@ Locations 13
               0               1               0               0 
               0               0               1               0 
 1
-              1               0               0               0 
-              0               1               0               0 
-              0               0               1               0 
+-0.866025419938927 1.14386633893384e-16 0.499999972019604 25.4244321158129 
+3.32569804507577e-16               1 3.47254560861235e-16            3.81 
+-0.499999972019604 4.67016169843912e-16 -0.866025419938927               0 
 1
               1               0               0               0 
               0               1               0               0 
@@ -180,9 +180,9 @@ ChildCount 0
 
 NameCount 4
 0
-;#10;:X;:H98:3,E.0 0
-;#11;:X;:H98:3,E.0 0
-;#12;:X;:H98:3,E.0 0
+;#46;:X;:H98:3,E.0 0
+;#47;:X;:H98:3,E.0 0
+;#48;:X;:H98:3,E.0 0
 
 Face
 
@@ -190,7 +190,7 @@ ChildCount 0
 
 NameCount 2
 0
-;#13;:X;:H98:3,F.0 0
+;#4a;:X;:H98:3,F.0 0
 
 Vertex
 
@@ -198,8 +198,8 @@ ChildCount 0
 
 NameCount 3
 0
-;#e;:X;:H98:3,V.0 0
-;#f;:X;:H98:3,V.0 0
+;#43;:X;:H98:3,V.0 0
+;#44;:X;:H98:3,V.0 0
 
 EndMap
 ]]>
@@ -218,7 +218,7 @@ EndMap
       <Integer value="0"/>
     </Property>
     <Property name="_LinkVersion" type="App::PropertyInteger" status="83886080">
-      <Integer value="0"/>
+      <Integer value="1"/>
     </Property>
     <Property name="_Parent" type="App::PropertyLinkHidden" group=" Link" attr="0" ro="0" hide="0" doc="" status="2097162">
       <Link value="Elements"/>
