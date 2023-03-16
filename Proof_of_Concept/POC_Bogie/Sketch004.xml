@@ -70,7 +70,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket.;#3c7;:G2#218d;CUT;:H-8e:d,E" Flags="0"/>
           </GeoExtensions>
-          <Circle CenterX="-25.42443211581291" CenterY="0" CenterZ="-0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.27"/>
+          <Circle CenterX="-25.42443211581291" CenterY="0" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.27"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="8" ref="Pocket.;#3c8;:G2#218e;CUT;:H-8e:d,E" migrated="1">
@@ -171,8 +171,8 @@ Locations 1
               0               1 -4.44089209850063e-16               0 
 Curve2ds 0
 Curves 2
-2 -25.424432115812909 0 0 0 0 1 1 0 0 0 1 0 3.1749999999999998
-2 25.424432115812859 0 0 0 0 1 1 0 0 0 1 0 3.1749999999999998
+2 -25.424432115812909 0 0 0 0 1 1 0 -0 -0 1 0 3.1749999999999998
+2 25.424432115812859 0 0 0 0 1 1 0 -0 -0 1 0 3.1749999999999998
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
